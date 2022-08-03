@@ -1,4 +1,4 @@
-GlobalFoundries 180um SRAM macros
+GlobalFoundries 180nm SRAM macros
 =================================
 
 This repository contains the "SRAM macros" as part of
