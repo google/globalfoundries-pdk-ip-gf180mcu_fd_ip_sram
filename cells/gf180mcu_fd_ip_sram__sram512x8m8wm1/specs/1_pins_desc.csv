@@ -11,7 +11,7 @@ memory is enabled. When CEN input is High, the
 memory is deactivated but internal states are
 
 retained. CEN must be high before 1st running cycle."
-A[6:0],Input,"Address Input. This Address input port is used to
+A[8:0],Input,"Address Input. This Address input port is used to
 
 address the location to be written during the write
 
